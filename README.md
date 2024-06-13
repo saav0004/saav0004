@@ -1,5 +1,5 @@
 <h1 align="center">Hey!👋 I'm Luciano</h1>
-<h3 align="center">A passionate front-end developer from Canada</h3>
+<h3 align="center">A passionate front-end developer from Canada living in Kraków, Poland</h3>
 
 - 📫 How to reach me **saav0004@algonquinlive.com**
 
