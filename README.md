@@ -1,7 +1,7 @@
 <h1 align="center">Hey!👋 I'm Luciano</h1>
 <h3 align="center">A passionate front-end developer from Canada living in Kraków, Poland</h3>
 
-- 📫 How to reach me **saav0004@algonquinlive.com**
+- 📫 How to reach me **luciano-saavedra@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
